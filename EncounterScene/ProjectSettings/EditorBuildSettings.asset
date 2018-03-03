@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Persistent.unity
+    guid: ef18a6fcc8276e541a14d91f5fb2d496
+  - enabled: 0
+    path: Assets/Scenes/SecurityRoom.unity
+    guid: fa8464330437a6c439e767c377bbee1d
+  - enabled: 0
+    path: Assets/Scenes/Market.unity
+    guid: 3020f6f7c8ece2f4da9fa9ca87063961
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 75e0feac7b39e49a38b77510bdcc0b24
+  - enabled: 0
+    path: Assets/Scenes/MapMenu.unity
+    guid: ce3f2cefde2d74b4b8c09e65bbabf416
+  - enabled: 1
+    path: Assets/Scenes/WalkingScene.unity
+    guid: fefb1d206eff04578b766e198196996b
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: e6e84cafc70f949b4bda48c1e07f33d0
